@@ -1,2 +1,2 @@
 # frontendprojectone
-This project is for good understanding of frontend
+This project is for good understanding of frontend development
